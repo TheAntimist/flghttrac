@@ -1,0 +1,90 @@
+ATL:
+  id: ATL
+  name: Hartsfield–Jackson Atlanta International
+  icao: KATL
+  code: ATL
+  rank: 0
+  city:
+    id: atlanta_ga_us
+    name: Atlanta
+    code: ATL
+    country:
+      id: US
+      name: United States
+      code: US
+    continent:
+      id: north-america
+      code: NA
+      name: North America
+BCN:
+  id: BCN
+  name: Barcelona–El Prat
+  icao: LEBL
+  code: BCN
+  rank: 0
+  city:
+    id: barcelona_es
+    name: Barcelona
+    code: BCN
+    country:
+      id: ES
+      name: Spain
+      code: ES
+    continent:
+      id: europe
+      code: EU
+      name: Europe
+SFO:
+  id: SFO
+  name: San Francisco International
+  icao: KSFO
+  code: SFO
+  rank: 0
+  city:
+    id: san-francisco_ca_us
+    name: San Francisco
+    code: SFO
+    country:
+      id: US
+      name: United States
+      code: US
+    continent:
+      id: north-america
+      code: NA
+      name: North America
+SIN:
+  id: SIN
+  name: Singapore Changi
+  icao: WSSS
+  code: SIN
+  rank: 0
+  city:
+    id: singapore_sg
+    name: Singapore
+    code: SIN
+    country:
+      id: SG
+      name: Singapore
+      code: SG
+    continent:
+      id: asia
+      code: AS
+      name: Asia
+TLV:
+  id: TLV
+  name: Ben Gurion
+  icao: LLBG
+  code: TLV
+  rank: 0
+  city:
+    id: tel-aviv_il
+    name: Tel Aviv
+    code: TLV
+    country:
+      id: IL
+      name: Israel
+      code: IL
+    continent:
+      id: asia
+      code: AS
+      name: Asia
